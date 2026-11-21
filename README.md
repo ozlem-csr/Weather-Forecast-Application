@@ -10,8 +10,8 @@ A graphical weekly weather application developed using procedural programming an
 - Back up previous weather information.
 
 ## Technologies
-- C / C++ (Procedural Programming)
-- BGI Graphics Library
+- C++ (Procedural Programming)
+- BGI Graphics Library (`graphics.h`)
 - Structures
 - File Handling
 
@@ -20,3 +20,7 @@ A graphical weekly weather application developed using procedural programming an
 2. Configure the BGI graphics library.
 3. Select the 32-bit Release configuration.
 4. Compile and run the project.
+
+## Türkçe Açıklama
+
+Bu proje, haftalık hava durumunu grafik arayüz üzerinden görüntülemek ve güncellemek için geliştirilmiştir. Kullanıcılar günlere ait sıcaklık ve hava durumu bilgilerini görebilir, BAS butonuyla hava durumuna uygun animasyonları izleyebilir. DEĞİŞ butonuyla seçilen günün hava durumu beş farklı seçenek arasından güncellenebilir. Güncel bilgiler `havadurumu.txt` dosyasında saklanırken önceki bilgiler `yedekozlem.txt` dosyasına yedeklenir.

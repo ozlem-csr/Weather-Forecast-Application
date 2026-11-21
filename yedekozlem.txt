@@ -1,0 +1,7 @@
+pazartesi parcali_bulutlu
+sali yagmurlu
+carsamba karli
+persembe gunesli
+cuma gunesli
+cumartesi bulutlu
+pazar parcali_bulutlu
